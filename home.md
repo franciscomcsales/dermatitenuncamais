@@ -4,7 +4,7 @@ title: Home
 date: '2022-12-10T04:04:09-03:00'
 author: franciscomcsales
 layout: page
-guid: 'http://localhost/wordpress/?page_id=8'
+guid: 'http://dermatitenuncamais.site/?page_id=8'
 ---
 
 <style>/*! elementor - v3.9.0 - 06-12-2022 */
