@@ -1,0 +1,44 @@
+.envato-kit-116-slider .elementor-main-swiper .elementor-swiper-button-next{
+	right: 60px;
+}
+
+.envato-kit-116-slider .elementor-main-swiper .elementor-swiper-button-prev{
+	left: 60px;
+}
+.envato-kit-116-progress .elementor-progress-text, .envato-kit-116-progress .elementor-progress-percentage{
+	text-transform: uppercase;
+	font-family:  sans-serif;
+	font-weight: 700;
+	letter-spacing: 0.3em;
+}
+.envato-kit-116-progress .elementor-progress-wrapper, .envato-kit-116-progress .elementor-progress-bar{
+	height: 23px;
+	line-height: 26px;
+}
+
+.envato-kit-116-button{
+	display: inline-block;
+}
+
+.envato-kit-116-form
+.elementor-field-type-textarea.elementor-field-group.elementor-column.elementor-field-group-message{
+	margin-bottom: 60px;
+}
+.envato-kit-116-form .elementor-field-type-textarea .elementor-field{
+	min-height: 250px;
+	padding-top: 16px;
+}
+
+.envato-kit-116-form .elementor-button{
+	cursor: pointer;
+}
+.envato-kit-116-img-cursor a img:hover{
+	cursor: crosshair !important;
+
+}
+.envato-kit-116-select .elementor-field-option{
+	padding: 5px;
+}
+.envato-kit-116-select .elementor-field-option > label{
+	opacity: .6
+}
