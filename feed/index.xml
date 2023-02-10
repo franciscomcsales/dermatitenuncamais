@@ -9,15 +9,35 @@
 
 <channel>
 	<title>Dermatite Nunca Mais</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description></description>
-	<lastBuildDate>Tue, 24 Jan 2023 20:56:37 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 27 Jan 2023 00:01:43 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.1.1</generator>
-</channel>
+	<item>
+		<title>Olá, mundo!</title>
+		<link>/2023/01/26/ola-mundo/</link>
+					<comments>/2023/01/26/ola-mundo/#comments</comments>
+		
+		<dc:creator><![CDATA[franciscomcsales]]></dc:creator>
+		<pubDate>Fri, 27 Jan 2023 00:01:43 +0000</pubDate>
+				<category><![CDATA[Sem categoria]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever!]]></description>
+										<content:encoded><![CDATA[
+<p>Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2023/01/26/ola-mundo/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
 </rss>
